@@ -10,7 +10,7 @@
 </head>
 <body>
 <div class="d-grid gap-2 col-3 position-absolute top-50 start-50 translate-middle">
-    <button type="button" class="btn btn-primary">All Records</button>
+    <a href="index.php" class="btn btn-primary">All Records</a>
 </div>
 </body>
 </html>
